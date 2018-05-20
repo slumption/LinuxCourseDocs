@@ -1,5 +1,6 @@
 cd BegginersLinuxDocs
 git add .
-git commit -m "Scripted auto commit from Mr Robot"
+mypc=$(hostname) 
+git commit -m "Scripted auto commit from: $mypc"
 git push -u origin master
 cd ..
