@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.12)  20 MAY 2018 23:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.12)  21 MAY 2018 00:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1118,7 +1118,7 @@ th-safety-6.png>] [6
 File: imgs/files.png Graphic file (type png)
 
 <use imgs/files.png>
-Package pdftex.def Info: imgs/files.png used on input line 140.
+Package pdftex.def Info: imgs/files.png used on input line 139.
 (pdftex.def)             Requested size: 56.20985pt x 61.22858pt.
  [16
 
@@ -1127,7 +1127,7 @@ Package pdftex.def Info: imgs/files.png used on input line 140.
 File: imgs/HomeFolder.png Graphic file (type png)
 
 <use imgs/HomeFolder.png>
-Package pdftex.def Info: imgs/HomeFolder.png used on input line 150.
+Package pdftex.def Info: imgs/HomeFolder.png used on input line 149.
 (pdftex.def)             Requested size: 175.14104pt x 123.18979pt.
  [17
 
@@ -1136,10 +1136,10 @@ Package pdftex.def Info: imgs/HomeFolder.png used on input line 150.
 File: imgs/LinuxIntroFolder.png Graphic file (type png)
 
 <use imgs/LinuxIntroFolder.png>
-Package pdftex.def Info: imgs/LinuxIntroFolder.png used on input line 158.
+Package pdftex.def Info: imgs/LinuxIntroFolder.png used on input line 157.
 (pdftex.def)             Requested size: 311.43614pt x 49.27516pt.
 
-Overfull \hbox (5.56815pt too wide) in paragraph at lines 158--158
+Overfull \hbox (5.56815pt too wide) in paragraph at lines 157--157
 []  
  []
 
@@ -1149,7 +1149,7 @@ Overfull \hbox (5.56815pt too wide) in paragraph at lines 158--158
 <imgs/Desktop.png, id=396, 1927.2pt x 1084.05pt>
 File: imgs/Desktop.png Graphic file (type png)
  <use imgs/Desktop.png>
-Package pdftex.def Info: imgs/Desktop.png used on input line 167.
+Package pdftex.def Info: imgs/Desktop.png used on input line 166.
 (pdftex.def)             Requested size: 218.99144pt x 123.18979pt.
 
 [19
@@ -1621,10 +1621,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
- 18197 strings out of 494835
- 344944 string characters out of 6178234
- 427915 words of memory out of 5000000
- 20783 multiletter control sequences out of 15000+600000
+ 18199 strings out of 494835
+ 344962 string characters out of 6178234
+ 427912 words of memory out of 5000000
+ 20785 multiletter control sequences out of 15000+600000
  16926 words of font info for 64 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  48i,14n,55p,437b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1638,7 +1638,7 @@ type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/symbols/msam10.pfb>
-Output written on LinuxCourse_Presenter_slides_May2018.pdf (64 pages, 1340629 b
+Output written on LinuxCourse_Presenter_slides_May2018.pdf (64 pages, 1340545 b
 ytes).
 PDF statistics:
  733 PDF objects out of 1000 (max. 8388607)
