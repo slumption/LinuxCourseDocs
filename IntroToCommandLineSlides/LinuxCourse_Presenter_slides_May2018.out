@@ -13,46 +13,46 @@
 \BOOKMARK [2][]{Outline1.12}{Home Folder}{Outline1}% 13
 \BOOKMARK [2][]{Outline1.13}{Course Folder}{Outline1}% 14
 \BOOKMARK [2][]{Outline1.14}{Your Desktop}{Outline1}% 15
-\BOOKMARK [1][]{Outline2}{Section 1: Terminals}{}% 16
+\BOOKMARK [1][]{Outline2}{Terminals}{}% 16
 \BOOKMARK [2][]{Outline2.15}{Terminal windows}{Outline2}% 17
 \BOOKMARK [2][]{Outline2.16}{The Launcher}{Outline2}% 18
 \BOOKMARK [2][]{Outline2.17}{Terminals on remote systems}{Outline2}% 19
 \BOOKMARK [2][]{Outline2.18}{Text consoles}{Outline2}% 20
 \BOOKMARK [2][]{Outline2.19}{Exercises}{Outline2}% 21
-\BOOKMARK [1][]{Outline3}{Section 2: Navigating the file system}{}% 22
+\BOOKMARK [1][]{Outline3}{Navigating the file system}{}% 22
 \BOOKMARK [2][]{Outline3.20}{Navigating the file system in the CLI}{Outline3}% 23
 \BOOKMARK [2][]{Outline3.21}{autocomplete}{Outline3}% 24
 \BOOKMARK [2][]{Outline3.22}{Exercises}{Outline3}% 25
 \BOOKMARK [2][]{Outline3.23}{Command cheat sheet}{Outline3}% 26
-\BOOKMARK [1][]{Outline4}{Section 3: Anatomy of a command}{}% 27
+\BOOKMARK [1][]{Outline4}{Anatomy of a command}{}% 27
 \BOOKMARK [2][]{Outline4.24}{Commands}{Outline4}% 28
 \BOOKMARK [2][]{Outline4.25}{autocomplete}{Outline4}% 29
 \BOOKMARK [2][]{Outline4.26}{Exercises}{Outline4}% 30
-\BOOKMARK [1][]{Outline5}{Section 4: Remote access to other Linux systems}{}% 31
+\BOOKMARK [1][]{Outline5}{Remote Linux Systems}{}% 31
 \BOOKMARK [2][]{Outline5.27}{Remote Access}{Outline5}% 32
 \BOOKMARK [2][]{Outline5.28}{Security}{Outline5}% 33
 \BOOKMARK [2][]{Outline5.29}{Remote Access Software}{Outline5}% 34
 \BOOKMARK [2][]{Outline5.30}{Exercises}{Outline5}% 35
 \BOOKMARK [2][]{Outline5.31}{Command cheat sheet}{Outline5}% 36
-\BOOKMARK [1][]{Outline6}{Section 5: Launching graphical applications}{}% 37
+\BOOKMARK [1][]{Outline6}{Launching graphical applications}{}% 37
 \BOOKMARK [2][]{Outline6.32}{Graphical Applications}{Outline6}% 38
 \BOOKMARK [2][]{Outline6.33}{Exercises}{Outline6}% 39
-\BOOKMARK [1][]{Outline7}{Section 6: Command line editing}{}% 40
+\BOOKMARK [1][]{Outline7}{Command line editing}{}% 40
 \BOOKMARK [2][]{Outline7.34}{Command Line Editing}{Outline7}% 41
 \BOOKMARK [2][]{Outline7.35}{Finding Text}{Outline7}% 42
 \BOOKMARK [2][]{Outline7.36}{The Date}{Outline7}% 43
 \BOOKMARK [2][]{Outline7.37}{The date in a script}{Outline7}% 44
 \BOOKMARK [2][]{Outline7.38}{Exercises}{Outline7}% 45
-\BOOKMARK [1][]{Outline8}{Section 7: Redirecting data and piping commands}{}% 46
+\BOOKMARK [1][]{Outline8}{Redirecting data and piping commands}{}% 46
 \BOOKMARK [2][]{Outline8.39}{Command Line Editing}{Outline8}% 47
 \BOOKMARK [2][]{Outline8.40}{Exercises}{Outline8}% 48
-\BOOKMARK [1][]{Outline9}{Section 8: File name wild cards}{}% 49
+\BOOKMARK [1][]{Outline9}{File name wild cards}{}% 49
 \BOOKMARK [2][]{Outline9.41}{Wild Cards}{Outline9}% 50
 \BOOKMARK [2][]{Outline9.42}{Exercises}{Outline9}% 51
-\BOOKMARK [1][]{Outline10}{Section 9: Environment variables}{}% 52
-\BOOKMARK [2][]{Outline10.43}{Section 9: Environment variables}{Outline10}% 53
+\BOOKMARK [1][]{Outline10}{Environment variables}{}% 52
+\BOOKMARK [2][]{Outline10.43}{Environment variables}{Outline10}% 53
 \BOOKMARK [2][]{Outline10.44}{Exercises}{Outline10}% 54
-\BOOKMARK [1][]{Outline11}{Section 10: Shell Scripting}{}% 55
+\BOOKMARK [1][]{Outline11}{Shell Scripting}{}% 55
 \BOOKMARK [2][]{Outline11.45}{Section 10: Trivial shell scripts}{Outline11}% 56
 \BOOKMARK [2][]{Outline11.46}{Exercises}{Outline11}% 57
 \BOOKMARK [1][]{Outline12}{Closing Session}{}% 58

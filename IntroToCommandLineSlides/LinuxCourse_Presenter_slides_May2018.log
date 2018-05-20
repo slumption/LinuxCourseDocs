@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.12)  21 MAY 2018 00:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.12)  21 MAY 2018 00:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1132,18 +1132,13 @@ Package pdftex.def Info: imgs/HomeFolder.png used on input line 149.
  [17
 
  <./imgs/HomeFolder.png>]
-<imgs/LinuxIntroFolder.png, id=390, 970.62625pt x 153.57375pt>
+<imgs/LinuxIntroFolder.png, id=390, 949.5475pt x 168.63pt>
 File: imgs/LinuxIntroFolder.png Graphic file (type png)
 
 <use imgs/LinuxIntroFolder.png>
 Package pdftex.def Info: imgs/LinuxIntroFolder.png used on input line 157.
-(pdftex.def)             Requested size: 311.43614pt x 49.27516pt.
-
-Overfull \hbox (5.56815pt too wide) in paragraph at lines 157--157
-[]  
- []
-
-[18
+(pdftex.def)             Requested size: 277.46262pt x 49.27516pt.
+ [18
 
  <./imgs/LinuxIntroFolder.png>]
 <imgs/Desktop.png, id=396, 1927.2pt x 1084.05pt>
@@ -1224,11 +1219,6 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  []
 
 
-Overfull \hbox (48.26917pt too wide) in paragraph at lines 4--4
- [] []  
- []
-
-
 Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
@@ -1274,11 +1264,6 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  []
 
 
-Overfull \hbox (33.58472pt too wide) in paragraph at lines 4--4
- [] []  
- []
-
-
 Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
@@ -1309,11 +1294,6 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
 
 Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
- []
-
-
-Overfull \hbox (141.84113pt too wide) in paragraph at lines 4--4
- [] []  
  []
 
 
@@ -1354,7 +1334,7 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  []
 
 
-Overfull \hbox (98.6634pt too wide) in paragraph at lines 4--4
+Overfull \hbox (10.65501pt too wide) in paragraph at lines 4--4
  [] []  
  []
 
@@ -1387,11 +1367,6 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
 
 Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
- []
-
-
-Overfull \hbox (20.84415pt too wide) in paragraph at lines 4--4
- [] []  
  []
 
 
@@ -1438,7 +1413,7 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  []
 
 
-Overfull \hbox (161.23878pt too wide) in paragraph at lines 4--4
+Overfull \hbox (73.2304pt too wide) in paragraph at lines 4--4
  [] []  
  []
 
@@ -1474,11 +1449,6 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  []
 
 
-Overfull \hbox (3.88693pt too wide) in paragraph at lines 4--4
- [] []  
- []
-
-
 Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
@@ -1507,11 +1477,6 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
 
 Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
- []
-
-
-Overfull \hbox (11.43886pt too wide) in paragraph at lines 4--4
- [] []  
  []
 
 
@@ -1609,7 +1574,7 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
 Package rerunfilecheck Info: File `LinuxCourse_Presenter_slides_May2018.out' ha
 s not changed.
-(rerunfilecheck)             Checksum: DDE29141A33411D9F1EBCE2E6206B282;3707.
+(rerunfilecheck)             Checksum: F05DAE56FB3019810ADD30436E8E788C;3569.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1623,7 +1588,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
 Here is how much of TeX's memory you used:
  18199 strings out of 494835
  344962 string characters out of 6178234
- 427912 words of memory out of 5000000
+ 427913 words of memory out of 5000000
  20785 multiletter control sequences out of 15000+600000
  16926 words of font info for 64 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
@@ -1638,7 +1603,7 @@ type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/symbols/msam10.pfb>
-Output written on LinuxCourse_Presenter_slides_May2018.pdf (64 pages, 1340545 b
+Output written on LinuxCourse_Presenter_slides_May2018.pdf (64 pages, 1339083 b
 ytes).
 PDF statistics:
  733 PDF objects out of 1000 (max. 8388607)

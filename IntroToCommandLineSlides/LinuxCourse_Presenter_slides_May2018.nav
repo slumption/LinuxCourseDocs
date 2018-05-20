@@ -83,7 +83,7 @@
 \headcommand {\beamer@subsectionpages {18}{18}}
 \headcommand {\slideentry {14}{0}{1}{19/19}{}{1}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\partentry {Section 1: Terminals}{2}}
+\headcommand {\partentry {Terminals}{2}}
 \headcommand {\beamer@partpages {4}{19}}
 \headcommand {\beamer@sectionpages {19}{19}}
 \headcommand {\beamer@subsectionpages {19}{19}}
@@ -114,7 +114,7 @@
 \headcommand {\beamer@subsectionpages {24}{24}}
 \headcommand {\slideentry {19}{0}{1}{25/25}{}{2}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\partentry {Section 2: Navigating the file system}{3}}
+\headcommand {\partentry {Navigating the file system}{3}}
 \headcommand {\beamer@partpages {20}{25}}
 \headcommand {\beamer@sectionpages {25}{25}}
 \headcommand {\beamer@subsectionpages {25}{25}}
@@ -140,7 +140,7 @@
 \headcommand {\beamer@subsectionpages {29}{29}}
 \headcommand {\slideentry {23}{0}{1}{30/30}{}{3}}
 \headcommand {\beamer@framepages {30}{30}}
-\headcommand {\partentry {Section 3: Anatomy of a command}{4}}
+\headcommand {\partentry {Anatomy of a command}{4}}
 \headcommand {\beamer@partpages {26}{30}}
 \headcommand {\beamer@sectionpages {30}{30}}
 \headcommand {\beamer@subsectionpages {30}{30}}
@@ -161,7 +161,7 @@
 \headcommand {\beamer@subsectionpages {33}{33}}
 \headcommand {\slideentry {26}{0}{1}{34/34}{}{4}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\partentry {Section 4: Remote access to other Linux systems}{5}}
+\headcommand {\partentry {Remote Linux Systems}{5}}
 \headcommand {\beamer@partpages {31}{34}}
 \headcommand {\beamer@sectionpages {34}{34}}
 \headcommand {\beamer@subsectionpages {34}{34}}
@@ -192,7 +192,7 @@
 \headcommand {\beamer@subsectionpages {39}{39}}
 \headcommand {\slideentry {31}{0}{1}{40/40}{}{5}}
 \headcommand {\beamer@framepages {40}{40}}
-\headcommand {\partentry {Section 5: Launching graphical applications}{6}}
+\headcommand {\partentry {Launching graphical applications}{6}}
 \headcommand {\beamer@partpages {35}{40}}
 \headcommand {\beamer@sectionpages {40}{40}}
 \headcommand {\beamer@subsectionpages {40}{40}}
@@ -208,7 +208,7 @@
 \headcommand {\beamer@subsectionpages {42}{42}}
 \headcommand {\slideentry {33}{0}{1}{43/43}{}{6}}
 \headcommand {\beamer@framepages {43}{43}}
-\headcommand {\partentry {Section 6: Command line editing}{7}}
+\headcommand {\partentry {Command line editing}{7}}
 \headcommand {\beamer@partpages {41}{43}}
 \headcommand {\beamer@sectionpages {43}{43}}
 \headcommand {\beamer@subsectionpages {43}{43}}
@@ -239,7 +239,7 @@
 \headcommand {\beamer@subsectionpages {48}{48}}
 \headcommand {\slideentry {38}{0}{1}{49/49}{}{7}}
 \headcommand {\beamer@framepages {49}{49}}
-\headcommand {\partentry {Section 7: Redirecting data and piping commands}{8}}
+\headcommand {\partentry {Redirecting data and piping commands}{8}}
 \headcommand {\beamer@partpages {44}{49}}
 \headcommand {\beamer@sectionpages {49}{49}}
 \headcommand {\beamer@subsectionpages {49}{49}}
@@ -255,7 +255,7 @@
 \headcommand {\beamer@subsectionpages {51}{51}}
 \headcommand {\slideentry {40}{0}{1}{52/52}{}{8}}
 \headcommand {\beamer@framepages {52}{52}}
-\headcommand {\partentry {Section 8: File name wild cards}{9}}
+\headcommand {\partentry {File name wild cards}{9}}
 \headcommand {\beamer@partpages {50}{52}}
 \headcommand {\beamer@sectionpages {52}{52}}
 \headcommand {\beamer@subsectionpages {52}{52}}
@@ -271,13 +271,13 @@
 \headcommand {\beamer@subsectionpages {54}{54}}
 \headcommand {\slideentry {42}{0}{1}{55/55}{}{9}}
 \headcommand {\beamer@framepages {55}{55}}
-\headcommand {\partentry {Section 9: Environment variables}{10}}
+\headcommand {\partentry {Environment variables}{10}}
 \headcommand {\beamer@partpages {53}{55}}
 \headcommand {\beamer@sectionpages {55}{55}}
 \headcommand {\beamer@subsectionpages {55}{55}}
 \headcommand {\slideentry {42}{0}{2}{56/56}{}{10}}
 \headcommand {\beamer@framepages {56}{56}}
-\headcommand {\sectionentry {43}{Section 9: Environment variables}{57}{Section 9: Environment variables}{10}}
+\headcommand {\sectionentry {43}{Environment variables}{57}{Environment variables}{10}}
 \headcommand {\beamer@sectionpages {56}{56}}
 \headcommand {\beamer@subsectionpages {56}{56}}
 \headcommand {\slideentry {43}{0}{1}{57/57}{}{10}}
@@ -287,7 +287,7 @@
 \headcommand {\beamer@subsectionpages {57}{57}}
 \headcommand {\slideentry {44}{0}{1}{58/58}{}{10}}
 \headcommand {\beamer@framepages {58}{58}}
-\headcommand {\partentry {Section 10: Shell Scripting}{11}}
+\headcommand {\partentry {Shell Scripting}{11}}
 \headcommand {\beamer@partpages {56}{58}}
 \headcommand {\beamer@sectionpages {58}{58}}
 \headcommand {\beamer@subsectionpages {58}{58}}

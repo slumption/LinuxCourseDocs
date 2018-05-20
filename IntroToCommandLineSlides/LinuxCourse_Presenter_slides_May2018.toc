@@ -42,7 +42,7 @@
 \beamer@sectionintoc {40}{Exercises}{52}{8}{40}
 \beamer@sectionintoc {41}{Wild Cards}{54}{9}{41}
 \beamer@sectionintoc {42}{Exercises}{55}{9}{42}
-\beamer@sectionintoc {43}{Section 9: Environment variables}{57}{10}{43}
+\beamer@sectionintoc {43}{Environment variables}{57}{10}{43}
 \beamer@sectionintoc {44}{Exercises}{58}{10}{44}
 \beamer@sectionintoc {45}{Section 10: Trivial shell scripts}{60}{11}{45}
 \beamer@sectionintoc {46}{Exercises}{61}{11}{46}
