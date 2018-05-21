@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.12)  21 MAY 2018 00:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.12)  21 MAY 2018 01:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,40 +1114,42 @@ th-safety-6.png>] [6
 
 ] [15
 
-] <imgs/files.png, id=378, 56.21pt x 61.22874pt>
+] [16
+
+] <imgs/files.png, id=385, 56.21pt x 61.22874pt>
 File: imgs/files.png Graphic file (type png)
 
 <use imgs/files.png>
 Package pdftex.def Info: imgs/files.png used on input line 139.
 (pdftex.def)             Requested size: 56.20985pt x 61.22858pt.
- [16
+ [17
 
  <./imgs/files.png>]
-<imgs/HomeFolder.png, id=384, 656.4525pt x 461.725pt>
+<imgs/HomeFolder.png, id=391, 656.4525pt x 461.725pt>
 File: imgs/HomeFolder.png Graphic file (type png)
 
 <use imgs/HomeFolder.png>
 Package pdftex.def Info: imgs/HomeFolder.png used on input line 149.
 (pdftex.def)             Requested size: 175.14104pt x 123.18979pt.
- [17
+ [18
 
  <./imgs/HomeFolder.png>]
-<imgs/LinuxIntroFolder.png, id=390, 949.5475pt x 168.63pt>
+<imgs/LinuxIntroFolder.png, id=397, 949.5475pt x 168.63pt>
 File: imgs/LinuxIntroFolder.png Graphic file (type png)
 
 <use imgs/LinuxIntroFolder.png>
 Package pdftex.def Info: imgs/LinuxIntroFolder.png used on input line 157.
 (pdftex.def)             Requested size: 277.46262pt x 49.27516pt.
- [18
+ [19
 
  <./imgs/LinuxIntroFolder.png>]
-<imgs/Desktop.png, id=396, 1927.2pt x 1084.05pt>
+<imgs/Desktop.png, id=404, 1927.2pt x 1084.05pt>
 File: imgs/Desktop.png Graphic file (type png)
  <use imgs/Desktop.png>
 Package pdftex.def Info: imgs/Desktop.png used on input line 166.
 (pdftex.def)             Requested size: 218.99144pt x 123.18979pt.
 
-[19
+[20
 
  <./imgs/Desktop.png>])
 \openout2 = `Section-1.aux'.
@@ -1172,33 +1174,33 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[20
+[21
 
 
 
-] <imgs/terminal-icon.png, id=409, 64.24pt x 57.21375pt>
+] <imgs/terminal-icon.png, id=416, 64.24pt x 57.21375pt>
 File: imgs/terminal-icon.png Graphic file (type png)
 
 <use imgs/terminal-icon.png>
 Package pdftex.def Info: imgs/terminal-icon.png used on input line 14.
 (pdftex.def)             Requested size: 64.23984pt x 57.2136pt.
- [21
+ [22
 
  <./imgs/terminal-icon.png>]
-<imgs/ubuntu-search-icon.png, id=415, 277.035pt x 243.91125pt>
+<imgs/ubuntu-search-icon.png, id=422, 277.035pt x 243.91125pt>
 File: imgs/ubuntu-search-icon.png Graphic file (type png)
 
 <use imgs/ubuntu-search-icon.png>
 Package pdftex.def Info: imgs/ubuntu-search-icon.png used on input line 26.
 (pdftex.def)             Requested size: 83.95235pt x 73.91461pt.
- [22
+ [23
 
- <./imgs/ubuntu-search-icon.png>] [23
+ <./imgs/ubuntu-search-icon.png>] [24
 
 ]
-[24
+[25
 
-] [25
+] [26
 
 ])
 \openout2 = `Section-2.aux'.
@@ -1223,15 +1225,15 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[26
+[27
 
 
-
-] [27
 
 ] [28
 
 ] [29
+
+] [30
 
 ]
 LaTeX Font Info:    Try loading font information for OML+cmss on input line 49.
@@ -1243,7 +1245,7 @@ LaTeX Font Warning: Font shape `OML/cmss/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
 (Font)              for symbol `textless' on input line 49.
 
-[30
+[31
 
 ])
 \openout2 = `Section-3.aux'.
@@ -1268,15 +1270,15 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[31
+[32
 
 
-
-] [32
 
 ] [33
 
 ] [34
+
+] [35
 
 ])
 \openout2 = `Section-4.aux'.
@@ -1301,11 +1303,9 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[35
+[36
 
 
-
-] [36
 
 ] [37
 
@@ -1314,6 +1314,16 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
 ] [39
 
 ] [40
+
+] [41
+
+] [42
+
+] [43
+
+] [44
+
+] [45
 
 ])
 \openout2 = `Section-5.aux'.
@@ -1343,13 +1353,13 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[41
+[46
 
 
 
-] [42
+] [47
 
-] [43
+] [48
 
 ])
 \openout2 = `Section-6.aux'.
@@ -1374,25 +1384,25 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[44
+[49
 
 
 
-] [45
+] [50
 
-] [46
+] [51
 
-] [47
+] [52
 
-] <imgs/script-date.png, id=560, 946.53625pt x 747.79375pt>
+] <imgs/script-date.png, id=589, 946.53625pt x 747.79375pt>
 File: imgs/script-date.png Graphic file (type png)
 
 <use imgs/script-date.png>
 Package pdftex.def Info: imgs/script-date.png used on input line 40.
 (pdftex.def)             Requested size: 249.48772pt x 197.1044pt.
- [48
+ [53
 
- <./imgs/script-date.png>] [49
+ <./imgs/script-date.png>] [54
 
 ])
 \openout2 = `Section-7.aux'.
@@ -1422,13 +1432,13 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[50
+[55
 
 
 
-] [51
+] [56
 
-] [52
+] [57
 
 ])
 \openout2 = `Section-8.aux'.
@@ -1453,13 +1463,13 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[53
+[58
 
 
 
-] [54
+] [59
 
-] [55
+] [60
 
 ])
 \openout2 = `Section-9.aux'.
@@ -1484,13 +1494,13 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[56
+[61
 
 
 
-] [57
+] [62
 
-] [58
+] [63
 
 ])
 \openout2 = `Section-10.aux'.
@@ -1515,13 +1525,13 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[59
+[64
 
 
 
-] [60
+] [65
 
-] [61
+] [66
 
 ])
 \openout2 = `Close.aux'.
@@ -1546,13 +1556,13 @@ Overfull \hbox (2.7375pt too wide) detected at line 4
  [] 
  []
 
-[62
+[67
 
 
 
-] [63
+] [68
 
-] [64
+] [69
 
 ])
 \tf@nav=\write6
@@ -1586,10 +1596,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
- 18199 strings out of 494835
- 344962 string characters out of 6178234
- 427913 words of memory out of 5000000
- 20785 multiletter control sequences out of 15000+600000
+ 18204 strings out of 494835
+ 344970 string characters out of 6178234
+ 427895 words of memory out of 5000000
+ 20781 multiletter control sequences out of 15000+600000
  16926 words of font info for 64 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  48i,14n,55p,437b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1603,11 +1613,11 @@ type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/symbols/msam10.pfb>
-Output written on LinuxCourse_Presenter_slides_May2018.pdf (64 pages, 1339083 b
+Output written on LinuxCourse_Presenter_slides_May2018.pdf (69 pages, 1344434 b
 ytes).
 PDF statistics:
- 733 PDF objects out of 1000 (max. 8388607)
- 621 compressed objects within 7 object streams
- 189 named destinations out of 1000 (max. 500000)
+ 763 PDF objects out of 1000 (max. 8388607)
+ 646 compressed objects within 7 object streams
+ 199 named destinations out of 1000 (max. 500000)
  598 words of extra memory for PDF output out of 10000 (max. 10000000)
 
