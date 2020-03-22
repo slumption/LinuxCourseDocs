@@ -1,5 +1,4 @@
-\beamer@endinputifotherversion {3.36pt}
-\select@language {english}
+\babel@toc {english}{}
 \beamer@sectionintoc {1}{Who are we?}{6}{1}{1}
 \beamer@sectionintoc {2}{More about your trainers}{7}{1}{2}
 \beamer@sectionintoc {3}{More about your trainers}{8}{1}{3}
